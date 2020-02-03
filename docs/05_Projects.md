@@ -1,5 +1,4 @@
 # Selected Projects 
-Testing if deploy works properly
 ### First Open Hardware Leaders cohort 
 
 ## Open River Monitoring System: RiMo
