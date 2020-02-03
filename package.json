@@ -1,0 +1,40 @@
+{
+    "description": "Hardocs stand for hardware documentation. It is a template to easily start an open hardware project document it, and publish it using a git based workflow",
+    "main": "index.js",
+    "scripts": {
+        "start": "vuepress dev docs",
+        "build": "vuepress build docs",
+        "docz": "node scripts/watch2.js",
+        "mkbom:csv": "node node_modules/hardocs/csv2md.js",
+        "fileLooper": "node scripts/fileLooper.js"
+    },
+    "author": "jurra",
+    "contributors": [
+        "cperezcapote"
+    ],
+    "license": "MIT",
+    "private": false,
+    "devDependencies": {
+        "vuepress": "^1.2.0"
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-svg-core": "^1.2.26",
+        "@fortawesome/free-solid-svg-icons": "^5.12.0",
+        "@fortawesome/vue-fontawesome": "^0.1.9",
+        "bulma.styl": "^0.6.11",
+        "convert-csv-to-json": "0.0.15",
+        "dotenv": "^5.0.1",
+        "hardocs": "^1.2.13",
+        "inquirer": "^6.5.2",
+        "js-yaml": "^3.13.1",
+        "json-to-markdown-table2": "^1.0.1",
+        "node-watch": "^0.6.3",
+        "save": "^2.4.0",
+        "stylus": "^0.54.7"
+    },
+    "keywords": [
+        "hardware documentation",
+        "markdown",
+        "web template"
+    ]
+}
