@@ -12,16 +12,7 @@ _Testing and making experiments to validate core ideas is what you do  to make s
 _Tip: Scope a sprint that you can run in 2-4 weeks_
 
 
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/open-hardware2.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/open-hardware2.png "image_tooltip")
-
-
-**Assignments **
-
-
+**Assignments**
 
 *   Define the scope statement for your participation in the program
 *   Prioritize your work based on feasibility and relevance, using the github project board
@@ -43,7 +34,6 @@ _Tip: It is possible that two test cards require several steps that you might wa
   </tr>
   <tr>
    <td><a href="https://open-hardware-leaders.github.io/ohlwebsite/Program/02_schedule.html">Program schedule</a>
-<p>
 <a href="https://docs.google.com/presentation/d/1T0ASYRbyVIkAHuEo1GXTh3qTBema_15A4OwfW_wIlg4/edit?usp=sharing">Scope Box</a>
    </td>
    <td>Define what you will and will not be able to deliver by the end of the program, within the big picture of your project.
