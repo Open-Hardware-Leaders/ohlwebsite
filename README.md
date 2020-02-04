@@ -1,5 +1,5 @@
-Source files to build openhardware4.me website: https://olx-hardware.gitlab.io/ohlwebsite/
-## Clone and deploy localy:
+Source files to build openhardware4.me website
+## Clone and deploy locally:
 ![adding content](cloningDEploying.gif)
 
 ## For adding content see this one:
