@@ -4,7 +4,7 @@
 set -e
 
 # load .env
-eval "$(cat .env <(echo) <(declare -x))"
+# eval "$(cat .env <(echo) <(declare -x))"
 
 # build
 npm run build
