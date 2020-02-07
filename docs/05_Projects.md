@@ -64,3 +64,5 @@ Applicant: **Barbora Maršíková**
 
 Modular, cost-effective, complexity-reduced, yet high-resolution microscopy system. Its low price and high availability makes it suitable for using it in field research, educational environments or development countries to help understanding the principle of optics or detect e.g. waterborne-parasites in the field.
 
+xx
+
