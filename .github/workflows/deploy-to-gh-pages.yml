@@ -1,17 +1,21 @@
-name: Build and Deploy
 on: [push]
-jobs:
-  build-and-deploy:
-    runs-on: ubuntu-latest
-    steps:
-    - name: Checkout
-      uses: actions/checkout@v2 # If you're using actions/checkout@v2 you must set persist-credentials to false in most cases for the deployment to work correctly.
-      with:
-        persist-credentials: false
 
-    - name: Build and Deploy
-      uses: JamesIves/github-pages-deploy-action@releases/v3
+jobs:
+  build:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [ubuntu-latest, windows-latest, macOS-latest]
+        node-version: [8.x, 10.x, 12.x]
+    steps:
+    - uses: actions/checkout@v1
+    - name: Use Node.js ${{ matrix.node-version }} on ${{ matrix.os }}
+      uses: actions/setup-node@v1
       with:
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        BRANCH: gh-pages # The branch the action should deploy to.
-        FOLDER: dist # The folder the action should deploy.
+        node-version: ${{ matrix.node-version }}
+    - name: npm install and test
+      run: |
+        npm install
+        npm test
+      env:
+        CI: true
