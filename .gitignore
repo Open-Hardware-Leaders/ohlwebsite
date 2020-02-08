@@ -4,6 +4,6 @@ _tmp/
 vscode-kanban.json
 
 
-public/
+# public/
 dist/
 token.txt
