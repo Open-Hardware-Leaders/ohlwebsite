@@ -1,8 +1,8 @@
 ---
 home: true
 heroImage: /logo.png
-heroText: Take your hardware project to the next level
-tagline: Applications closed, stay tune for the next round!
+heroText: Take your hardware project to the next level or die
+tagline: Hey world
 actionText: false 
 actionLink: https://docs.google.com/forms/d/1_LRx9TzrIp0X6-I5maHvETSbSupJpdfh8-OUoSUJLWA/viewform?edit_requested=true
 header: Take your hardware project to the next level
