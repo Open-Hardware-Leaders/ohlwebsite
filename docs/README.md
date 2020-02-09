@@ -2,7 +2,7 @@
 home: true
 heroImage: /logo.png
 heroText: Take your hardware project to the next level!
-tagline: Stay tuned for the next round
+tagline: The 1st round is running until April 2020. Stay tuned for the next round 🚀
 actionText: false 
 actionLink: https://docs.google.com/forms/d/1_LRx9TzrIp0X6-I5maHvETSbSupJpdfh8-OUoSUJLWA/viewform?edit_requested=true
 header: Take your hardware project to the next level
