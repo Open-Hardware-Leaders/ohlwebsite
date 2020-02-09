@@ -1,4 +1,4 @@
-### **Week 0: Course Introduction**
+# Week 0: Course Introduction
 
 _Open source hardware is a heterogeneous group of practices, projects, artifacts, communities and lately a field of research, that can be found in a diversity of domains._
 
