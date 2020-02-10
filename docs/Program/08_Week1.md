@@ -1,6 +1,9 @@
 # Week 1: Scope and stage your project
+<div>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/l26uDRB8Anc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-_Meet your mentor! Get to know each other, review the value proposition you drafted and start thinking about your project goals and your goals for this program. Your mentor should get a general idea about the status and stage of the project, if you have a prototype or a product, if the project has a user base, among other things. Start thinking of assumptions and hypotheses underlying your project._
+_Meet this week with your mentor! ☝ Check the video and review the value proposition you drafted. Start scoping your project goals, as well as your goals for this program. Your mentor should get a general idea about the status and stage of the project, if you have a prototype or a product, if the project has a user base, among other things. This week you will define more thourougly the assumptions and hypotheses underlying your project._
 
 ### **Goal of the week:** 
 - Define your value proposition clearly and start identifying your core hypotheses and assumptions, and status regarding validations 
