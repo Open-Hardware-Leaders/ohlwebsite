@@ -3,7 +3,11 @@
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/l26uDRB8Anc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+⏬ You can also [download the video here](https://drive.google.com/open?id=1lXu9_ylXVa4q1VfW0cr7NC2yCwzpfxzB)
+
+
 _Meet this week with your mentor! ☝ Check the video and review the value proposition you drafted. Start scoping your project goals, as well as your goals for this program. Your mentor should get a general idea about the status and stage of the project, if you have a prototype or a product, if the project has a user base, among other things. This week you will define more thourougly the assumptions and hypotheses underlying your project._
+
 
 ### **Goal of the week:** 
 - Define your value proposition clearly and start identifying your core hypotheses and assumptions, and status regarding validations 
