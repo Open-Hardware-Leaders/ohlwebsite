@@ -116,23 +116,14 @@
 
 
        <section class="footer-2">
-         <div class="container container--padding-top">
-           <div class="columns">
-             <div class="column">
-               <ul>
-                <li class="list-title">Contact us</li>
-                <li>openhardware4me@gmail.com</li>
-              </ul> 
-             </div>
-             <div class="column"></div>
-             <div class="column"></div>
-           </div>
-           <div>
-             <p class="has-text-centered">
-               Copyright © Open Leaders Hardware 2019
-             </p>
-           </div>
-         </div>
+        <div class="container container--padding-top">
+          <div>
+            <p class="has-text-centered"> Questions, ideas, collaborations? Contact us at <a href="mailto:openhardware4me@gmail.com">openhardware4me@gmail.com</a></p>
+          </div>
+          <div>
+            <p class="has-text-centered">The content of Open Hardware Leaders program is licensed under Creative Commons attribution license <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY4.0</a></p>
+          </div>
+        </div>
       </section>
 
       <Content class="theme-default-content custom" />
