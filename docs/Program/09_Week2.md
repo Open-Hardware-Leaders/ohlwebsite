@@ -3,8 +3,6 @@
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zGBmu3rCcdQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
-
 _One of the most important aspects in open source hardware projects is understanding who your contributors and users will be. Learn how to bring contributors onto your project by using tools called "personas" and "pathways." These tools will help you plan and test how you'll interact with new contributors, and imagine what is really involved for the contributor to succeed._
 
 ### Goal of the week:
@@ -67,3 +65,4 @@ _One of the most important aspects in open source hardware projects is understan
 </table>
 
 
+test if adds text
