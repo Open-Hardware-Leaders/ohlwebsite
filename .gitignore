@@ -7,3 +7,5 @@ vscode-kanban.json
 # public/
 dist/
 token.txt
+
+# .git/
