@@ -63,6 +63,3 @@ _One of the most important aspects in open source hardware projects is understan
    </td>
   </tr>
 </table>
-
-
-test if adds text
