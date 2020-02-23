@@ -2,6 +2,11 @@
 <div>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/mWEVFV-YUaw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
+⏬ You can also [download the video here](https://drive.google.com/open?id=15GZha6hMTmFke8z8yjkI-xga30xh4fu0)
+
+⏬ Find [the slides here](https://docs.google.com/presentation/d/1fZJsSza1XCQKI9byLQ6nhbPImcEr65uZGZZSpfgAb0g/edit?usp=sharing)
+
+
 _You now have a better understanding of your project’s value proposition and scope of your participation in this program. Taking into account the stage your project is in, you will formulate ideas and concrete tests that will help you make decisions for advancing your project._
 
 _E.g. if your project has already considerable user validation, and has a prototype, you may want to focus your tests on documentation, raising funds or community building. Also, they might be interested in learning specific tools such as freeCAD, KiCAD, etc._
