@@ -1,4 +1,6 @@
 # Week 3: Start testing and validating your ideas
+<div>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/mWEVFV-YUaw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 _You now have a better understanding of your project’s value proposition and scope of your participation in this program. Taking into account the stage your project is in, you will formulate ideas and concrete tests that will help you make decisions for advancing your project._
 
