@@ -16,6 +16,10 @@ _E.g. if your project has already considerable user validation, and has a protot
 
 **Assignments:**
 
+* 👇 Watch this tutorial on how to make test cards with github issues 
+<div>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/xjRI8HLWk78" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 *   Extract 6 key hypothesis/assumptions that are related to your core value proposition
 *   Design experiments (tasks) that tackle those specific hypotheses, goals, targets
 *   Consider which resources do you need to achieve them. Which resources do you already have at hand? How can your mentor help you in getting those resources you need?
@@ -23,6 +27,7 @@ _E.g. if your project has already considerable user validation, and has a protot
 *   If you have new hypothesis and ideas update your canvas. What would you do to validate these ideas, what experiments would you design?
 
 **_Hint: The first basic validation should be researching on how other people address the problems you are trying to tackle. We don’t want to reinvent the wheel!_**
+
 
 <table>
   <tr>
