@@ -5,6 +5,7 @@
 ⏬ You can also [download the video here](https://drive.google.com/open?id=1fg5C7-hZzFvxjQBx_Wg6SXnVMHZtp1n7)
 
 ⏬ Find [the slides here](https://docs.google.com/presentation/d/1jlFvmYikRrRDfd25xiVOJIjoJOwxg80FwVsN6Opo7e0/edit#slide=id.p)
+
 _Testing and making experiments to validate core ideas is what you do  to make sure the requirements you are aiming for are the right requirements. This basically means making sure that you are **doing the right thing**. This section is** about doing things right**. Once you have scoped your project to decide how your next release will be, what features will have, what architecture, design and specifications based on your validations, the idea is that you commit to a set of features._
 
 **Goal of the week**
