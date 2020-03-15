@@ -7,10 +7,15 @@ _Your project grows when more and more diverse people jump in and contribute to 
 
 **Assignments:**
 
-*   Create issues for contributors to jump into your project
-*   Write your contribution guidelines
-*   Who is participating and who is not in your project? Think of strategies for engaging and including wider audiences, and define your community guidelines (or code of conduct).
-*   If you have new hypothesis and ideas update your canvas. What would you do to validate these ideas, what experiments would you design?
+- Write your contribution guidelines.
+- Share your contribution guidelines draft online (use google docs, [hackMD](https://hackmd.io/) or a markdown file in your repository to get feedback from organizers, mentors and people and participants in the community.
+- Create/Reuse markdown templates for contributors to make feature requests, propose ideas, etc. [You can look at the example of testCard.md templates](https://github.com/Open-Hardware-Leaders/Examples-Templates)
+- If it makes sense for your current stage, make a draft of a start guide for the users of your product.
+- If there are areas that you need help with outside your core team, open an issue labelled with "help wanted" and specify the issue (for instance, logo design, website design and development, feedback on specific assumptions or hypothesis, proofreading, translations etc.)
+- If you want to attract new contributors, consider creating a "first timer only" issue to keep the entry level low.
+
+### Basic reference for opening up your project
+- [What nobody tells you about documentation](https://www.divio.com/blog/documentation/)
 
 <table>
   <tr>
