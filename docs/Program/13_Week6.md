@@ -1,13 +1,19 @@
 
 # Week 6: Building for open
+<div>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/CVqwitCkuOw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
+⏬ You can also [download the video here](https://drive.google.com/open?id=1VKgClM1D91FBrVHloo8LlPux3vA0RfeT)
+
+⏬ Find [the slides here](https://docs.google.com/presentation/u/1/d/1CT9h8XKgZTBqTbaKwkFAESvqTXm3OrkEuCeC4gQTPeE/edit?usp=drive_open&ouid=114969460267615332597)
 _Your project grows when more and more diverse people jump in and contribute to it. This week you will go through a set of principles, values and concrete tools that will help you lower access barriers for your users and contributors, besides designing strategies for ensuring a welcoming space for everyone._
 
 **Goal of the week:** Create entry points for contributors and users. Write guidelines and templates to make using and contributing to your product/project easier.
 
-**Assignments:**
 ### Basic reference for opening up your project
 - [What nobody tells you about documentation](https://www.divio.com/blog/documentation/)
+
+**Assignments:**
 * Write your contribution guidelines and share the draft online to get feedback from organizers, mentors and people in the community.
 * Who is participating and who is not in your project? Think of strategies for engaging and including wider audiences, and define your community guidelines (or code of conduct).
 * Create/Reuse markdown templates for contributors to make feature requests, propose ideas, file pull requests etc.
