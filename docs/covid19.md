@@ -8,7 +8,7 @@ meta:
 ---
 # Welcome! 👋 
 ## Keep calm, stay informed and avoid exposure to you and others! 
-That is what can make most impact around the world to face covid19. Rhere is a lot going on around the world to fight the shortage of supplies, equipment and resources. Makers around the world have been working on different projects that we would like to share. 
+There is a lot going on around the world to fight the shortage of supplies, equipment and resources. Makers around the world have been working on different projects that we would like to share. 
 
 ## ❗ Bare in mind that many of these projects are ongoing and we don't know how advanced, developed they are. Nevertheless the response and enthusiasm to combat the disease are moving.
 
