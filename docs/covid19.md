@@ -10,8 +10,6 @@ meta:
 ## Keep calm, stay informed and avoid exposure to you and others! 
 There is a lot going on around the world to fight the shortage of supplies, equipment and resources. Scientists, citizens, makers and all kinds of people around the world have been working on different projects that we would like to share. 
 
-## ❗ Bare in mind that many of these projects are ongoing and we don't know how advanced, developed they are. Nevertheless the response and enthusiasm to combat the disease are moving.
-
 ## Here is the list of projects we have found:
 - [**Coronavirus Tech Handbook**](https://coronavirustechhandbook.com/home). _The Coronavirus Tech Handbook provides a space for technologists, civic organisations, public & private institutions, researchers and specialists of all kinds to collaborate on a rapid and sophisticated response to the coronavirus outbreak and subsequent impacts. It is a quickly evolving resource with thousands of active expert contributors._
   
