@@ -4,16 +4,19 @@ meta:
   - name: description
     content: COVID19 list of initiatives we have been able to find online.
   - name: keywords
-    content: makers coronavirus covid19 open hardware open-hardware-leaders mozilla
+    content: makers coronavirus covid19 open hardware open-hardware-leaders mozilla delftopenhardware
 ---
 # Welcome! 👋 
 ## Keep calm, stay informed and avoid exposure to you and others! 
 There is a lot going on around the world to fight the shortage of supplies, equipment and resources. Scientists, citizens, makers and all kinds of people around the world have been working on different projects that we would like to share. 
 
 ## Here is the list of projects we have found:
+![Respirador 23](https://lh3.googleusercontent.com/5ECT969dX6hcThYuEAaPY0jsgS_eFw78ABbwzNi9Nk5mspH1t5M1mtr3uiLnlpcL_dLvqGNiL2cTGIfcHlh93H0t8XPnt0KOVT5d9z8p1bv1FyEnX8RtiWXWvsQD2z-Dop4ZxGi7)
+☝ Ventilator ready for replication and testing done by this group 👇
+- [**Coronavirus Makers (Spanish)**](https://www.coronavirusmakers.org/index.php/es/).This initiative is very big, has a large telegram group, different projects, and hundreds of people involved, [several repos in github](https://github.com/CoronavirusMakers) and a [forum](https://foro.coronavirusmakers.org/index.php?p=/).
+
 - [**Coronavirus Tech Handbook**](https://coronavirustechhandbook.com/home). _The Coronavirus Tech Handbook provides a space for technologists, civic organisations, public & private institutions, researchers and specialists of all kinds to collaborate on a rapid and sophisticated response to the coronavirus outbreak and subsequent impacts. It is a quickly evolving resource with thousands of active expert contributors._
   
-- [**Coronavirus Makers (Spanish)**](https://www.coronavirusmakers.org/index.php/es/).This initiative is very big, has a large telegram group, different projects, and hundreds of people involved, [several repos in github](https://github.com/CoronavirusMakers) and a [forum](https://foro.coronavirusmakers.org/index.php?p=/).
   
 - [**Open Source Ventilator**](https://www.appropedia.org/Open_source_ventilator). A website with different documentations related to the ventilators, the background, the demand in numbers, and existing designs (some of them open).
   
