@@ -1,12 +1,21 @@
 # Week 7: Designing for community and project sustainability
+<div>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/8PKNnCdlWNI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
+⏬ You can also [download the video here](https://drive.google.com/open?id=1IhmULbmX9UfgKjERi3pE2QjoyHzoCK8k)
+
+⏬ Find [the slides here](https://docs.google.com/presentation/d/10Q_kHKb0FBZP-e_Ygm0zlLoewV6sxq2TUaPCnOTUu7Y/edit?usp=sharing)
 _“What makes open projects open-source is not the platform they use, but the way participation is designed”. During this week you are going to learn how to help others reach out to you, find your project & interact with it, plus strategies other projects use for keeping community, and therefore projects, active._
 
-**Goals of the week:** define your communication channels and learn about different experiences in open source governance and management models, their advantages and disadvantages.
+**Goals of the week:**  Understand different experiences in open source governance and management models
 
-**Assignments:** coming soon.
+**Assignments:** 
+- Watch this week’s video
+- See at least one of the videos we have compiled for you in the slides
+- Share your insights, reflections and questions in [this issue](https://github.com/Open-Hardware-Leaders/ohlwebsite/issues/6)
 
 
+</br>
 <table>
   <tr>
    <td><strong>Tools</strong>
