@@ -16,6 +16,8 @@ There is a lot going on around the world to fight the shortage of supplies, equi
 - [**Coronavirus Makers (Spanish)**](https://www.coronavirusmakers.org/index.php/es/).This initiative is very big, has a large telegram group, different projects, and hundreds of people involved, [several repos in github](https://github.com/CoronavirusMakers) and a [forum](https://foro.coronavirusmakers.org/index.php?p=/).
 
 - [**Coronavirus Tech Handbook**](https://coronavirustechhandbook.com/home). _The Coronavirus Tech Handbook provides a space for technologists, civic organisations, public & private institutions, researchers and specialists of all kinds to collaborate on a rapid and sophisticated response to the coronavirus outbreak and subsequent impacts. It is a quickly evolving resource with thousands of active expert contributors._
+
+- [**Open Source Medical Supplies for Covid19**](https://www.facebook.com/groups/670932227050506/?ref=group_header)
   
   
 - [**Open Source Ventilator**](https://www.appropedia.org/Open_source_ventilator). A website with different documentations related to the ventilators, the background, the demand in numbers, and existing designs (some of them open).
