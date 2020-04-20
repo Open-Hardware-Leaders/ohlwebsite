@@ -10,9 +10,6 @@ _Your project grows when more and more diverse people jump in and contribute to 
 
 **Goal of the week:** Create entry points for contributors and users. Write guidelines and templates to make using and contributing to your product/project easier.
 
-### Basic reference for opening up your project
-- [What nobody tells you about documentation](https://www.divio.com/blog/documentation/)
-
 **Assignments:**
 * Write your contribution guidelines and share the draft online to get feedback from organizers, mentors and people in the community.
 * Who is participating and who is not in your project? Think of strategies for engaging and including wider audiences, and define your community guidelines (or code of conduct).
@@ -21,6 +18,8 @@ _Your project grows when more and more diverse people jump in and contribute to 
 * If there are areas that you need help with outside your core team, open an issue labelled with "help wanted" and specify the issue (e. g. logo design, website design and development, feedback on specific assumptions or hypothesis, proofreading, translations)
 * If you want to attract new contributors, consider creating a "first timer only" issue to keep the entry level low.
 
+**Basic reference for opening up your project:**
+[What nobody tells you about documentation](https://www.divio.com/blog/documentation/)
 
 <table>
   <tr>
@@ -47,7 +46,7 @@ _Your project grows when more and more diverse people jump in and contribute to 
    <td>Create a welcoming environment for users and contributors. Inspire yourself on different kinds of community guidelines and codes of conduct.
    </td>
    <td>
-   
+
    <a href="https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/">Mozilla guide</a>
     <p></p>
     <a href="https://publiclab.org/conduct">🎈 Public Lab: Conduct</a>
@@ -72,4 +71,3 @@ _Your project grows when more and more diverse people jump in and contribute to 
    </td>
   </tr>
 </table>
-
