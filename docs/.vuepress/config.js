@@ -16,8 +16,10 @@ module.exports = {
     theme: 'theme-default',
     themeConfig: {
         nav: [
-            { text: 'Covid-19', link: '/covid19.md' },
+            { text: 'Next cohort', link: '/nextsteps.md' },
             { text: 'Program', link: '/Program/01_introduction.md' },
+            { text: 'Covid-19', link: '/covid19.md' }
+
         ],
         sidebar: sidebarArray,
 
