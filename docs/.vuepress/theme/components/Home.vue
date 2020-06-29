@@ -23,9 +23,9 @@
       </div></a>
 
       <section class="section is-medium section--inverted">
-        <div class="title is-1 has-text-centered">How it works</div>
+        <div class="title is-1 has-text-centered">Important ⚠️ This is an archive website</div>
         <div class="subtitle is-3 is-spaced has-text-centered">
-          You want to take your project to the next level 👇
+          Open Hardware Leaders is splitting in 2 new programs, learn more <a href="https://openhardware4.me/open-hardware-leaders.github.io/nextsteps.html">here</a>
         </div>
         <div class="container">
           <!-- <div class> -->
