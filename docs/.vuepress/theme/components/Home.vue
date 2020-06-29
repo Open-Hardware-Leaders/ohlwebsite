@@ -42,7 +42,7 @@
                   />
                 </span>
                 <div class="title is-4">{{ feature.title }}</div>
-                <p class="">{{ feature.details }}</p>
+                <p v-html class="feature.details"></p>
               <!-- </div> -->
             </div>
           </div>
