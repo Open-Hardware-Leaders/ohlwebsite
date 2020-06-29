@@ -38,3 +38,4 @@ There is a lot going on around the world to fight the shortage of supplies, equi
 
 ## References and resources:
 - [7 open hardware projects working to solve COVID-19](https://opensource.com/article/20/3/open-hardware-covid19)
+
