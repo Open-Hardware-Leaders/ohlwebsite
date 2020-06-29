@@ -2,15 +2,9 @@
   <div class="background">
     <main class="home" aria-labelledby="main-title">
       <header class="hero">
-        <img
-          v-if="data.heroImage"
-          :src="$withBase(data.heroImage)"
-          :alt="data.heroAlt || 'hero'"
-        />
+        <img v-if="data.heroImage" :src="$withBase(data.heroImage)" :alt="data.heroAlt || 'hero'" />
 
-        <h1 v-if="data.heroText !== null" id="main-title">
-          {{ data.heroText || $title || "Hello" }}
-        </h1>
+        <h1 v-if="data.heroText !== null" id="main-title">{{ data.heroText || $title || "Hello" }}</h1>
         <p class="description">{{ data.tagline || $description }}</p>
 
         <p class="action" v-if="data.actionText && data.actionLink">
@@ -18,31 +12,37 @@
         </p>
       </header>
 
-      <a href="https://foundation.mozilla.org/en/blog/open-hardware-leaders-open-leaders-x-program/" target="blank"><div class="mozilla">
-        <h3>A <img src="mozilla.png" alt="text"> OLx Program</h3>
-      </div></a>
-      
+      <a
+        href="https://foundation.mozilla.org/en/blog/open-hardware-leaders-open-leaders-x-program/"
+        target="blank"
+      >
+        <div class="mozilla">
+          <h3>
+            A
+            <img src="mozilla.png" alt="text" /> OLx Program
+          </h3>
+        </div>
+      </a>
+
       <section class="section is-medium section--inverted">
         <div class="title is-1 has-text-centered">Important ⚠️ This is an archive website</div>
         <div class="subtitle is-3 is-spaced has-text-centered">
-          Open Hardware Leaders is splitting in 2 new programs, learn more <router-link to="./nextsteps.html">here</router-link>
+          Open Hardware Leaders is splitting in 2 new programs, learn more
+          <router-link to="./nextsteps.html">here</router-link>
         </div>
         <div class="container">
           <!-- <div class> -->
-            <div class="features columns container" v-if="data.features && data.features.length">
-              <div
-                class="column has-text-centered"
-                v-for="(feature, index) in data.features"
-                :key="index"
-              >
-                <span class="icon">
-                  <font-awesome-icon
-                    class="fas fa-3x has-text-centered"
-                    v-bind:icon="feature.icon"
-                  />
-                </span>
-                <div class="title is-4">{{ feature.title }}</div>
-                <p v-html="feature.details"></p>
+          <div class="features columns container" v-if="data.features && data.features.length">
+            <div
+              class="column has-text-centered"
+              v-for="(feature, index) in data.features"
+              :key="index"
+            >
+              <span class="icon">
+                <font-awesome-icon class="fas fa-3x has-text-centered" v-bind:icon="feature.icon" />
+              </span>
+              <div class="title is-4">{{ feature.title }}</div>
+              <p v-html="feature.details"></p>
               <!-- </div> -->
             </div>
           </div>
@@ -52,12 +52,8 @@
       <section class="section is-medium">
         <!-- Program Section -->
         <!-- <div></div> -->
-        <div class="title is-2 has-text-centered " style="">
-          We help you during 14 weeks
-        </div>
-        <div class="subtitle is-3 is-spaced has-text-centered " style="">
-          Here is how we plan to do it
-        </div>
+        <div class="title is-2 has-text-centered" style>We help you during 14 weeks</div>
+        <div class="subtitle is-3 is-spaced has-text-centered" style>Here is how we plan to do it</div>
         <div class="container">
           <div
             class="features columns container container--top-padding"
@@ -69,10 +65,7 @@
               :key="index"
             >
               <span class="icon">
-                <font-awesome-icon
-                  class="fas fa-3x has-text-centered"
-                  v-bind:icon="item.icon"
-                />
+                <font-awesome-icon class="fas fa-3x has-text-centered" v-bind:icon="item.icon" />
               </span>
               <div class="title is-4" v-html="item.title"></div>
               <p v-html="item.details"></p>
@@ -80,48 +73,43 @@
           </div>
         </div>
       </section>
-  
 
-     <section id="team" class="section is-normal section--grey">
-       <div class="container is-spaced">
-         <div class="column">
-           <div class="title is-2 is-spaced">Program organizers</div>
-              <!-- <span>Join our team and become a mentor</span> -->
-         </div>
-         
-       
-       
-       <div class="">
+      <section id="team" class="section is-normal section--grey">
+        <div class="container is-spaced">
+          <div class="column">
+            <div class="title is-2 is-spaced">Program organizers</div>
+            <!-- <span>Join our team and become a mentor</span> -->
+          </div>
+
+          <div class>
             <div class="grid" v-if="data.team && data.team.length">
-              <div
-                class="center"
-                v-for="(person, index) in data.team"
-              >
-                <div class="">
-                  <figure class="">
-                    <img
-                      class="is--rounded"
-                      :src="person.image"
-                    />
+              <div class="center" v-for="(person, index) in data.team">
+                <div class>
+                  <figure class>
+                    <img class="is--rounded" :src="person.image" />
                   </figure>
-                   <div class="subtitle is-6 has-text-centered">{{ person.title }}</div>
-                   <!-- <div class>{{ person.email }}</div> -->
+                  <div class="subtitle is-6 has-text-centered">{{ person.title }}</div>
+                  <!-- <div class>{{ person.email }}</div> -->
                 </div>
-               
               </div>
             </div>
           </div>
-          </div>
-     </section>
+        </div>
+      </section>
 
-
-       <section class="footer-2">
+      <section class="footer-2">
         <div class="container container--padding-top">
           <div>
-            <p class="has-text-centered"> Questions, ideas, collaborations? Contact us at <a href="mailto:openhardware4me@gmail.com">openhardware4me@gmail.com</a></p>
+            <p class="has-text-centered">
+              Questions, ideas, collaborations? Contact us at
+              <a href="mailto:openhardware4me@gmail.com">openhardware4me@gmail.com</a>
+            </p>
           </div>
           <div>
-            <p class="has-text-centered">The content of Open Hardware Leaders program is licensed under Creative Commons attribution license <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY4.0</a></p>
+            <p class="has-text-centered">
+              The content of Open Hardware Leaders program is licensed under Creative Commons attribution license
+              <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY4.0</a>
+            </p>
           </div>
         </div>
       </section>
@@ -180,17 +168,16 @@ export default {
 </script>
 
 <style lang="stylus">
-
 .home {
   .hero {
     padding-top: 4em;
     text-align: center;
     background-image: url('/ohlwebsite/batthern.png');
     padding-bottom: 3em;
-    paddding-top:5em;
+    paddding-top: 5em;
 
     img {
-      margin-top:5em;
+      margin-top: 5em;
       max-width: 100%;
       max-height: 380px;
       display: block;
@@ -237,9 +224,9 @@ export default {
     border-radius: 5%;
     -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
     filter: grayscale(80%);
-    width 100px;
+    width: 100px;
     margin: 0 auto;
-    box-shadow: 0 3rem 3rem -1rem rgba(10,10,10,.3);
+    box-shadow: 0 3rem 3rem -1rem rgba(10, 10, 10, 0.3);
   }
 
   .is-horizontal-center {
@@ -252,8 +239,6 @@ export default {
     text-align: center;
     color: lighten($textColor, 25%);
   }
-
-
 }
 
 @media (max-width: $MQMobile) {
@@ -273,8 +258,6 @@ export default {
   .home {
     // padding-left: 1.5rem;
     // padding-right: 1.5rem;
-
-
     .hero {
       img {
         max-height: 210px;
