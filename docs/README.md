@@ -1,8 +1,8 @@
----
+bbbb---
 home: true
 heroImage: /logo.png
 heroText: Take your hardware project to the next level!
-tagline: The 1st round is running until May 2020. Stay tuned for the next round 🚀
+tagline: false
 actionText: false 
 actionLink: https://docs.google.com/forms/d/1_LRx9TzrIp0X6-I5maHvETSbSupJpdfh8-OUoSUJLWA/viewform?edit_requested=true
 header: Take your hardware project to the next level
@@ -45,4 +45,19 @@ team:
   email:
   contact:
 footer: MIT Licensed | Copyright © 2018-present Evan You
+news:
+  title: Important news
+  subtitle: Open Hardware Leaders, what happens next
+  content: >
+    After the graduation of the first cohort and 14 weeks of collaborative work, the organization team has decided to split ways. The differences in our vision are too significant, taking us into this joint decision after much effort on working them out.</br></br>
+
+    OHL was initially an idea and an effort of four people (plus all the volunteers!), and in the spirit of collaboration and openness, we understand no one owns it. So we propose the experience of OHL stays online and open as a pilot project, a repository available for anyone to fork.</br>
+
+    The organizers continue working on their different ideas for future hardware programs: "Open Hardware Devs" -led by Jose Urra- and "Open Hardware Makers" -led by Andre Chagas, Alex Kutschera and Juli Arancio-.
+
+  link:
+newProgram:
+  name:
+  link:
+
 ---

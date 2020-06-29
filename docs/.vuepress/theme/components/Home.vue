@@ -22,6 +22,15 @@
         <h3>A <img src="mozilla.png" alt="text"> OLx Program</h3>
       </div></a>
 
+      <section class="is-medium">
+        <div class="has-text-centered">
+          <h1>{{data.news.title}}</h1>
+          <p class="subtitle">Hey</p>
+        </div>
+        <p>{{data.news.content}}</p>
+
+      </section>  
+      
       <section class="section is-medium section--inverted">
         <div class="title is-1 has-text-centered">How it works</div>
         <div class="subtitle is-3 is-spaced has-text-centered">
