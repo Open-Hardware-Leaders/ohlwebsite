@@ -2,17 +2,20 @@
 This program will be branched into two programs, below we explain how this will happen. 
 Stay tuned for the next cohorts and programs
 
-### If you have any questions drop us an email here: 
-openhardware4me@gmail.com
+## Open Hardware Leaders splits into new two programs
+### What happens next and how to get involved in these new programs
 
+After the graduation of the first cohort and 14 weeks of collaborative work, the organization team has decided to split ways. The differences in our vision are too significant, taking us into this joint decision after much effort on working them out.
 
-### Open Hardware Leaders, what happens next
+OHL was initially an idea and an effort of four people (plus all the volunteering mentors!), and in the spirit of collaboration and openness, we understand no one owns it. So we propose the experience of OHL stays online and open as a pilot project, a repository available for anyone to fork.
 
-After the graduation of the first cohort and 14 weeks of collaborative work, the organization team has decided to split ways. The differences in our vision for a mentorship program like OHL are too significant, taking us into this joint decision after much effort on working them out.
+The organizers continue working on their different ideas for future hardware programs: "Open Hardware Devs" -led by Jose Urra- and "Open Hardware Makers" -led by Andre Chagas, Alex Kutschera and Juli Arancio-.
 
-OHL was initially an idea and an effort of four people (plus all the volunteers!), and in the spirit of collaboration and openness, we understand no one owns it. So we propose the experience of OHL stays online and open as a pilot project, a repository available for anyone to fork.
+### New programs
 
-Considering this experience a collective achievement, we think the healthiest way to move forward is that the two different ideas for future hardware programs -one led by Jose Urra and the other one by Andre Chagas, Alex Kutschera and Juli Arancio-, learn from this experience and start their own way.
+- Open Hardware Devs - Learn more: contact jose.urra86@gmail.com
+
+- Open Hardware Makers - Learn more at openhardware.space
 
 **Agreements:**
 
