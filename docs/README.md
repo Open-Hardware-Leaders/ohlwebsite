@@ -1,4 +1,4 @@
-bbbb---
+---
 home: true
 heroImage: /logo.png
 heroText: Take your hardware project to the next level!
