@@ -2,21 +2,16 @@
 home: true
 heroImage: /logo.png
 heroText: Take your hardware project to the next level!
-tagline: The 1st round is running until May 2020. Stay tuned for the next round 🚀
 actionText: false 
 actionLink: https://docs.google.com/forms/d/1_LRx9TzrIp0X6-I5maHvETSbSupJpdfh8-OUoSUJLWA/viewform?edit_requested=true
 header: Take your hardware project to the next level
 features:
-- title: Your project
-  details: > 
-    You have a project in its initial stage or a established project aiming to grow a community. You want to work using open standards to make it impactful.
-  icon: cog # icon to list or project
-- title: Best practices
-  details: You want to learn and apply tools and best practices for design, testing and production, collaboration, communication and community building.
+- title: Open Hardware Devs
+  details: Learn more? Drop an <a href="mailto:jose.urra86@gmail.com">email here</a>
   icon: check
-- title: Community
-  details: Join a community of open leaders and developers working on hardware projects and grow along with other communities worldwide.
-  icon: users
+- title: Open Hardware Makers
+  details: Learn more at <a href="openhardware.space">openhardware.space</a>
+  icon: cog
 program:
 - title: Mentorship
   details: Receive 1:1 guidance from mentors, access to open hardware experts and a pool of open educational resources.
