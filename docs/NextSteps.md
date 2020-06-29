@@ -1,9 +1,4 @@
-## Participate in the next cohorts to learn more about open hardware
-This program will be branched into two programs, below we explain how this will happen. 
-Stay tuned for the next cohorts and programs
-
-## Open Hardware Leaders splits into new two programs
-### What happens next and how to get involved in these new programs
+## Open Hardware Leaders, what happens next
 
 After the graduation of the first cohort and 14 weeks of collaborative work, the organization team has decided to split ways. The differences in our vision are too significant, taking us into this joint decision after much effort on working them out.
 
@@ -13,11 +8,11 @@ The organizers continue working on their different ideas for future hardware pro
 
 ### New programs
 
-- Open Hardware Devs - Learn more: contact jose.urra86@gmail.com
+- Open Hardware Devs - Learn more: contact [jose.urra86@gmail.com](mailto:jose.urra86@gmail.com)
 
-- Open Hardware Makers - Learn more at openhardware.space
+- Open Hardware Makers - Learn more at [openhardware.space](openhardware.space)
 
-**Agreements:**
+### Agreements
 
 - We share common openness goals and values. But we also have important differences in how this is achieved and implemented. This is one of the main reasons why we have decided to split the current OHL program into two different ones.
 
