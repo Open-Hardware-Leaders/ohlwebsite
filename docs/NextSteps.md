@@ -10,7 +10,7 @@ The organizers continue working on their different ideas for future hardware pro
 
 - Open Hardware Devs - Learn more: contact [jose.urra86@gmail.com](mailto:jose.urra86@gmail.com)
 
-- Open Hardware Makers - Learn more at [openhardware.space](openhardware.space)
+- Open Hardware Makers - Learn more at [openhardware.space](https://openhardware.space/)
 
 ### Agreements
 
