@@ -7,10 +7,10 @@ actionLink: https://docs.google.com/forms/d/1_LRx9TzrIp0X6-I5maHvETSbSupJpdfh8-O
 header: Take your hardware project to the next level
 features:
 - title: Open Hardware Devs
-  details: Learn more? Drop an <a href="mailto:jose.urra86@gmail.com">email here</a>
+  details: Learn more? Drop an [email here](mailto:jose.urra86@gmail.com)
   icon: check
 - title: Open Hardware Makers
-  details: Learn more at <a href="openhardware.space">openhardware.space</a>
+  details: Learn more at [openhardware.space](openhardware.space)
   icon: cog
 program:
 - title: Mentorship
