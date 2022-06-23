@@ -4,11 +4,11 @@ After the graduation of the first cohort and 14 weeks of collaborative work, the
 
 OHL was initially an idea and an effort of four people (plus all the volunteering mentors!), and in the spirit of collaboration and openness, we understand no one owns it. So we propose the experience of OHL stays online and open as a pilot project, a repository available for anyone to fork.
 
-The organizers continue working on their different ideas for future hardware programs: "Open Hardware Devs" -led by Jose Urra- and "Open Hardware Makers" -led by Andre Chagas, Alex Kutschera and Juli Arancio-.
+The organizers continue working on their different ideas for future hardware programs: "Open Hardware Academy" -led by Jose Urra- and "Open Hardware Makers" -led by Andre Chagas, Alex Kutschera and Juli Arancio-.
 
 ### New programs
 
-- Open Hardware Devs - Learn more: contact [jose.urra86@gmail.com](mailto:jose.urra86@gmail.com)
+- Open Hardware Academy - Learn more at [openhardware.academy](https://openhardware.academy/)
 
 - Open Hardware Makers - Learn more at [openhardware.space](https://openhardware.space/)
 
